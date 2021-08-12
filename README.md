@@ -23,13 +23,3 @@ Python
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 
 ## 博客
-
-https://captain5.github.io/
-
-
-https://www.cnblogs.com/v5captain/
-
-<!-- 访客 -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
-</p>
